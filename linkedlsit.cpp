@@ -1,3 +1,7 @@
+/*
+name: V D Panduranga Sai Guptha
+date:29/09/2022
+*/
 #include<iostream>
 using namespace std;
 class node
