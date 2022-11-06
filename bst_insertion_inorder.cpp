@@ -54,6 +54,6 @@ int main()
           root = insert(root, data);
           cout << "\n";
      };
-     cout << "inorder of the binary search treed: " << endl;
+     cout << "inorder of the binary search tree:" << endl;
      inorder(root);
 }
