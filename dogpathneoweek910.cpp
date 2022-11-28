@@ -61,6 +61,6 @@ int main()
           cout<<endl;
      }
      else
-     cout<<"Solution doesn't exist"<<endl;
+     cout<<"no solution"<<endl;
      
 }
